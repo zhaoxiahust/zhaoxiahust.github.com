@@ -1,2 +1,3 @@
 name: Xia Zhao, Ghent University
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
