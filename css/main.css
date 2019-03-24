@@ -6,16 +6,13 @@ html {
     height: 100%;
 }
 
+
+
 body {
-    padding: 10px;
-    margin: 10px;
-}
-/*
-body {
-    margin: 0px auto;
+    margin: 60px auto;
     width: 70%;
 }
-*/
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
