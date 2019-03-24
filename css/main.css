@@ -1,7 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    background-color: #fff;
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+/*
 body {
     margin: 0px auto;
     width: 70%;
 }
+*/
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
